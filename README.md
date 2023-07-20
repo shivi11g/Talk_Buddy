@@ -13,5 +13,9 @@ To start it run the following commands
 
 
 
-https://github.com/shivi11g/Talk_Buddy/assets/99272893/29de5bfc-98dd-4208-9696-b5c91b9a8207
+
+
+
+
+https://github.com/shivi11g/Talk_Buddy/assets/99272893/fcf35380-492d-4466-a725-646f7b188bf9
 
