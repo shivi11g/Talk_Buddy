@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = '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'
+openai.api_key = ''
 messages = [ {"role": "system", "content": "You are a intelligent assistant."} ]
 
 
@@ -19,7 +19,7 @@ print(f"ChatGPT: {reply}")
 messages.append({"role": "assistant", "content": reply})
 
 import openai
-openai.api_key = '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'
+openai.api_key = ''
 
 model_engine = "text-davinci-003"
 prompt = "Hello how are you?"
