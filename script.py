@@ -16,7 +16,7 @@ import time #for sleep function
 
 import openai
 
-openai.my_api_key = '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'
+openai.my_api_key = ''
 messages = [ {"role": "system", "content": "You are a intelligent assistant."} ]
 
 
