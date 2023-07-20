@@ -116,7 +116,7 @@ def takeCommand():
     return query
 
 def openai_output(inp):
-        openai.api_key = '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'
+        openai.api_key = ''
         messages = [ {"role": "system", "content": "You are an intelligent assistant."} ]
 
         message = inp
@@ -422,7 +422,7 @@ def take_query():
         idx= lst.index("of")
         idx1= idx+1
         city_name= lst[idx1]
-        api_key= "96fb2783cd3fe913578da89501055f54"
+        api_key= ""
         temp=""
         humidity=""
 
