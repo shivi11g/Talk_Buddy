@@ -2,8 +2,9 @@
 Virtual Talk Buddy, an intelligent virtual assistant designed to execute user instructions effectively and capabilities for hands-free interaction. 
 It includes various functions like making todo list, playing music, and providing weather updates, send messages.
 To start it run the following commands
-pip install pyttsx3
-pip install SpeechRecognition
+**pip install pyttsx3**
+
+**pip install SpeechRecognition**
 
 
 
